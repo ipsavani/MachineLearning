@@ -21,3 +21,7 @@
   - A mix of Classification and Regression Model via Gradient Descent(Very mind bending project, had lots of fun doing it.)
 
 - Project 3 - Competetive Handwriting Recognition :
+  - Build a number of non-deep learning based classifiers using all pixels as features for handwriting recognition.
+    - SVM, Logistic Regression and XGBoost
+  - Implement 3 layer CNN from scratch to build the 10 class classifier model.
+  - test on own handwritten digits.
